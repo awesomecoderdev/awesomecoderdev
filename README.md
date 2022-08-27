@@ -4,7 +4,7 @@
 const awesomecoderdev = {
     name: "Mohammad Ibrahim",
     author: "awesomecoderdev",
-    code: [Javascript, HTML, CSS],
+    code: [Javascript, HTML, CSS, PHP, PYTHON, NODE, REACT],
     askMeAbout: ["web dev", "programmer" , "tech", "crypto", "coffee"],
     technologies: {
         frontEnd: [
