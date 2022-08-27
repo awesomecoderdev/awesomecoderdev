@@ -1,31 +1,13 @@
 ### Hi there 👋
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@awesomecoderdev 
-Aakarsh-B
-/
-Aakarsh-B
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Aakarsh-B/README.md
-
-blog-post-bot Updated with the latest blog posts
-Latest commit ec31732 on May 24, 2021
- History
- 1 contributor
-66 lines (48 sloc)  5.13 KB
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
 <br/>
@@ -91,28 +73,5 @@ Latest commit ec31732 on May 24, 2021
 ---
 
 [![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=awesomecoderdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
