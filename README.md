@@ -9,11 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
-
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
+## Hello, I'm <a href="https://awesomecoder.org" target="_blank">Mohammad Ibrahim</a>!
 (Use dark theme to find my socials ;)
 
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
