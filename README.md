@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-## Hello, I'm <a href="https://awesomecoder.org" target="_blank">Mohammad Ibrahim</a>!
-(Use dark theme to find my socials ;)
-## Hi there 👋 Welcome to my GitHub! I'm Mohammad Ibrahim, full-stack developer,
-
 ```javascript
 const awesomecoderdev = {
     name: "Mohammad Ibrahim",
@@ -15,16 +10,23 @@ const awesomecoderdev = {
         frontEnd: [
             "html5",
             "css3",
+            "scss",
             "bootstrap",
-            "tailwind",
-            "react",
-            "wordpress",
+            "tailwindcss",
+            "javascript",
+            "jQuery",
+            "react"
         ],
         backEnd: [
             "php",
             "node",
             "nextjs",
             "laravel,
+        ],
+        cms: [
+            "WordPress",
+            "WordPress Theme Development",
+            "WordPress Plugin Development",
         ]
     }
 };
