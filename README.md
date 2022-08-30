@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hello there
 
 ```javascript
 const awesomecoderdev = {
     name: "Mohammad Ibrahim",
     author: "awesomecoderdev",
-    code: [Javascript, HTML, CSS, PHP, PYTHON, NODE, REACT],
-    askMeAbout: ["web dev", "programmer" , "tech", "crypto", "coffee"],
+    email: "awesomecoder.dev@gmail.com",
+    code: [HTML, CSS, Javascript, REACT, PHP, PYTHON, NODE],
+    about: ["web dev", "programmer" , "tech", "crypto", "coffee"],
     technologies: {
         frontEnd: [
             "html5",
@@ -27,6 +28,12 @@ const awesomecoderdev = {
             "WordPress",
             "WordPress Theme Development",
             "WordPress Plugin Development",
+        ],
+        others: [
+            "API",
+            "Server Management",
+            "Database Management",
+            "PhotoShop",
         ]
     }
 };
