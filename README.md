@@ -1,5 +1,3 @@
-### Hello there
-
 ```javascript
 const awesomecoderdev = {
     name: "Mohammad Ibrahim",
