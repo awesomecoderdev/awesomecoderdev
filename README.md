@@ -6,8 +6,6 @@ Previously worked across PHP, JavaScript and full-stack development — now focu
 
 I build production-grade backend systems and cloud-native platforms with a strong focus on performance, scalability, and clean architecture.
 
----
-
 <p align="left">
   <img 
     src="https://komarev.com/ghpvc/?username=awesomecoderdev&label=Profile%20views&color=0e75b6&style=for-the-badge" 
@@ -83,23 +81,20 @@ I build production-grade backend systems and cloud-native platforms with a stron
 - DevOps, CI/CD & cloud infrastructure  
 - System performance & scalability  
 
----
-
 ## Skills & Buzzwords
 Feel free to use below list to quickly check if I might have desired skills
 
 - **Languages:** Go (Golang), JavaScript, TypeScript, PHP  
 - **Backend & APIs:** REST, gRPC, WebSockets, Microservices, System Design, Backend Architecture  
 - **Frameworks:** Gin, Node.js, Laravel, Echo, Express, Astro, Nextjs  
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, Elasticsearch, RabbitMQ  
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, Elasticsearch
+- **Messaging & Streaming:** Kafka, RabbitMQ, Redis Pub/Sub    
 - **DevOps & Cloud:** Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, ArgoCD, AWS, DigitalOcean  
 - **Infrastructure:** Linux, Ubuntu, Fedora, Nginx, HAProxy, Bash, Makefile  
 - **Monitoring:** Grafana, Logging, Metrics, Performance Tuning  
 - **Testing:** Unit Testing, PHPUnit, CI/CD, Continuous Integration, Continuous Delivery  
 - **Tools & Workflow:** Git, GitHub, Jira, Agile, Kanban, PhpStorm  
 - **Other:** Project Management, Team Leadership
-
----
 
 ## What can I offer you?
 
