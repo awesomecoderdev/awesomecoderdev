@@ -45,7 +45,7 @@ I build production-grade backend systems and cloud-native platforms with a stron
 
 <div style="
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   gap: 10px;
 ">
 
