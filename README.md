@@ -1,50 +1,70 @@
 # Hi 👋, I'm Ibrahim Kholil
 
-Backend & DevOps Engineer
+Backend & DevOps Engineer focused on scalable systems, cloud infrastructure, and distributed backend architecture.
 
----
+Former PHP, Javascript & full-stack developer, now specializing in Go, DevOps automation, and high-performance systems.
 
-I build scalable backend systems, cloud infrastructure, and automation pipelines focused on reliability, performance, and clean system design.
+I build reliable, production-grade backend systems and cloud-native platforms with a focus on performance, scalability, and clean architecture.
 
+</p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=awesomecoderdev&label=Profile%20views&color=0e75b6&style=flat" />
+<img 
+  src="https://komarev.com/ghpvc/?username=awesomecoderdev&label=Profile%20views&color=0e75b6&style=for-the-badge" 
+/>
+</p>
+<p align="left">
+
+<a href="https://link.awesomecoder.dev/website">
+<img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge" />
+</a>
+
+<a href="https://link.awesomecoder.dev/blog">
+<img src="https://img.shields.io/badge/Blog-Read%20Articles-black?style=for-the-badge&logo=hashnode" />
+</a>
+
+<a href="https://link.awesomecoder.dev/linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://link.awesomecoder.dev/whatsapp">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+</a>
+
+<a href="https://link.awesomecoder.dev/email">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://link.awesomecoder.dev/instagram">
+<img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
+</a>
+
 </p>
 
----
 
-## 🚀 Current Work
+<div style="display: flex; gap: 6px; padding:5px">
+  <img width="49%" height="130px" src="https://github-readme-stats.vercel.app/api?username=awesomecoderdev&show_icons=true&locale=en" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=awesomecoderdev" />
+</div>
 
-- 🏗️ Police Memorial UK (policememorial.org.uk)
-- ☁️ Cloud infrastructure & DevOps automation systems
-- ⚙️ Distributed backend systems & high-load APIs
-- 🧠 Platform engineering & system architecture
-- ✍️ Blog: https://link.awesomecoder.dev/blog
 
----
+#### About Me
 
-## 📊 GitHub Analytics
+- 🏛️ Currently working on **Police Memorial UK (policememorial.org.uk)**
+- ☁️ Backend engineer focused on scalable distributed systems and cloud infrastructure
+- 🐳 Strong experience with Docker, Kubernetes, Linux, and CI/CD pipelines
+- ⚡ Building high-performance APIs and reliable backend architectures
+- 🌱 Exploring system design, distributed systems, and platform engineering
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=awesomecoderdev&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=awesomecoderdev&hide_border=true&theme=tokyonight" />
-</p>
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomecoderdev&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+#### Tech Stack
 
----
+**Languages:** Go, TypeScript, PHP  
 
-## 🌐 Links
+**Backend:** Gin, Laravel, REST APIs, WebSockets, Kafka, Redis  
 
-- Portfolio → https://link.awesomecoder.dev/website  
-- Blog → https://link.awesomecoder.dev/blog  
-- LinkedIn → https://link.awesomecoder.dev/linkedin  
-- Email → https://link.awesomecoder.dev/email  
-- WhatsApp → https://link.awesomecoder.dev/whatsapp  
+**Databases:** PostgreSQL, MySQL, SQLite, MongoDB, CockroachDB  
 
----
+**Messaging / Streaming:** Kafka, Redis Streams  
 
-## 🧠 Engineering Philosophy
+**DevOps & Infrastructure:** Docker, Kubernetes, Linux, Nginx, GitHub Actions, CI/CD  
 
-> Build systems that scale under pressure, fail gracefully, and stay maintainable long-term.
