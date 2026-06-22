@@ -64,7 +64,7 @@ I build production-grade backend systems and cloud-native platforms with a stron
 
 ## Experience
 
-- 3+ years experience with Go (Golang) for backend services and high-performance APIs  
+- 4+ years experience with Go (Golang) for backend services and high-performance APIs  
 - 4+ years working with Docker, Kubernetes (K8s), CI/CD pipelines, and automated deployments  
 - Experience designing RESTful APIs, microservices, and scalable backend architectures  
 - Experience building production systems with React, Laravel, Node.js, and PHP  
