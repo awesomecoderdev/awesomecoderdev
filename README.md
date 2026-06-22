@@ -90,10 +90,10 @@ Feel free to use below list to quickly check if I might have desired skills
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQLite, Elasticsearch
 - **Messaging & Streaming:** Kafka, RabbitMQ, Redis Pub/Sub    
 - **DevOps & Cloud:** Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, ArgoCD, AWS, DigitalOcean  
-- **Infrastructure:** Linux, Ubuntu, Fedora, Nginx, HAProxy, Bash, Makefile  
+- **Infrastructure:** Linux, Ubuntu, Nginx, HAProxy, Bash, Makefile  
 - **Monitoring:** Grafana, Logging, Metrics, Performance Tuning  
 - **Testing:** Unit Testing, PHPUnit, CI/CD, Continuous Integration, Continuous Delivery  
-- **Tools & Workflow:** Git, GitHub, Jira, Agile, Kanban, PhpStorm  
+- **Tools & Workflow:** Git, GitHub, Jira, Agile, Kanban  
 - **Other:** Project Management, Team Leadership
 
 ## What can I offer you?
