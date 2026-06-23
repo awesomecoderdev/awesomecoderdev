@@ -40,20 +40,6 @@ I build production-grade backend systems and cloud-native platforms with a stron
 
 </p>
 
-
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-  gap: 10px;
-">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=awesomecoderdev&show_icons=true&locale=en" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awesomecoderdev" />
-
-</div>
-
-
 ### About Me
 
 - 🏛️ Currently working on **Police Memorial UK (policememorial.org.uk)**
